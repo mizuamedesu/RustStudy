@@ -1,1 +1,1 @@
-"# It is first Rust study project" 
+# It is first Rust study project
